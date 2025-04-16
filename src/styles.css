@@ -1,0 +1,13 @@
+#content {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  height: 100vh;
+}
+
+#projects-section {
+  border-right: 1px solid black;
+}
+
+.project-tab {
+  text-align: center;
+}
